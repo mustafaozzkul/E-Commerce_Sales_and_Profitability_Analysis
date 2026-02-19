@@ -25,7 +25,7 @@ An Interective Tableau Dashboard are available [here.](https://app.powerbi.com/g
 
 SQL queries for data modeling and business analysis are available [here](https://github.com/mustafaozzkul/E-Commerce_Sales_and_Profitability_Analysis/blob/466a317cda1642638b7e6a8471666964a0195914/E_commerce%20SQL.sql)
 
-Python scripts used for data preparation and transformation are available [here].(https://github.com/mustafaozzkul/E-Commerce_Sales_and_Profitability_Analysis/blob/466a317cda1642638b7e6a8471666964a0195914/E-Commerce%20Analytic.ipynb)
+Python scripts used for data preparation and transformation are available [here](https://github.com/mustafaozzkul/E-Commerce_Sales_and_Profitability_Analysis/blob/466a317cda1642638b7e6a8471666964a0195914/E-Commerce%20Analytic.ipynb)
 
 ## Data Structure & Initial Checks
 The dataset follows a star-schema structure optimized for revenue analysis, profitability diagnostics, channel performance evaluation, and product-level benchmarking.
