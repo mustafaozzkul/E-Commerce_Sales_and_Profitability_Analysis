@@ -57,7 +57,7 @@ This analysis is designed to address the following business questions:
  - Identify customer segments driving lower AOV and adjust pricing tiers.
  - Investigate return drivers to prevent further margin erosion..
 
-![Executive]()
+![Executive](https://github.com/mustafaozzkul/E-Commerce_Sales_and_Profitability_Analysis/blob/main/Executive%20.png?raw=true)
 
 
 
