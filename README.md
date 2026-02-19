@@ -22,3 +22,45 @@ A structured analytics workflow supports data ingestion, transformation, and ana
 - Power-BI for interactive dashboards and executive-level data storytelling
 
 An Interective Tableau Dashboard are available [here.](https://app.powerbi.com/groups/me/reports/26c7b30e-7198-4acb-95b3-d572de588e32/f77a97c078697c2b0fc0?experience=power-bi)
+
+SQL queries for data modeling and business analysis are available [here]
+
+Python scripts used for data preparation and transformation are available [here].
+
+## Data Structure & Initial Checks
+The dataset follows a star-schema structure optimized for revenue analysis, profitability diagnostics, channel performance evaluation, and product-level benchmarking.
+
+Data model and transformations are available [here].
+
+## Business Questions
+
+This analysis is designed to address the following business questions:
+
+- What are the primary drivers of revenue decline and margin compression?
+- How does discount intensity impact overall profitability?
+- Which product categories and lifecycle stages contribute most to total revenue?
+- How do different sales channels and campaign types compare in terms of revenue quality and average order value?
+- To what extent do return behavior and operational costs (shipping, payment fees, tax) affect net profit?
+
+## Executive Overview
+
+### Insights & Business Implications
+
+#### Key Insights
+ - Total revenue declined year-over-year despite relatively stable order volume, indicating pressure on pricing and customer spend.
+ - Average Order Value (AOV) decreased significantly, contributing more to revenue decline than volume loss.
+ - Profit margin compressed faster than revenue, signaling structural profitability pressure.
+ - Return rate showed a modest upward trend, increasing margin risk.
+
+#### Potential Actions
+ - Reassess discount strategy to protect average order value.
+ - Identify customer segments driving lower AOV and adjust pricing tiers.
+ - Investigate return drivers to prevent further margin erosion..
+
+![Executive]()
+
+
+
+
+
+
