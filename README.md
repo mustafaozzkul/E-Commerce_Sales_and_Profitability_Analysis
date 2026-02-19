@@ -23,9 +23,9 @@ A structured analytics workflow supports data ingestion, transformation, and ana
 
 An Interective Tableau Dashboard are available [here.](https://app.powerbi.com/groups/me/reports/26c7b30e-7198-4acb-95b3-d572de588e32/f77a97c078697c2b0fc0?experience=power-bi)
 
-SQL queries for data modeling and business analysis are available [here]
+SQL queries for data modeling and business analysis are available [here](https://github.com/mustafaozzkul/E-Commerce_Sales_and_Profitability_Analysis/blob/466a317cda1642638b7e6a8471666964a0195914/E_commerce%20SQL.sql)
 
-Python scripts used for data preparation and transformation are available [here].
+Python scripts used for data preparation and transformation are available [here].(https://github.com/mustafaozzkul/E-Commerce_Sales_and_Profitability_Analysis/blob/466a317cda1642638b7e6a8471666964a0195914/E-Commerce%20Analytic.ipynb)
 
 ## Data Structure & Initial Checks
 The dataset follows a star-schema structure optimized for revenue analysis, profitability diagnostics, channel performance evaluation, and product-level benchmarking.
