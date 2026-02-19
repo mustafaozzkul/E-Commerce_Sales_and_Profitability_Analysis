@@ -59,8 +59,60 @@ This analysis is designed to address the following business questions:
 
 ![Executive](https://github.com/mustafaozzkul/E-Commerce_Sales_and_Profitability_Analysis/blob/main/Executive%20.png?raw=true)
 
+## Revenue & Product Performance
 
+### Insights & Business Implications
 
+#### Key Insights
+- Revenue is heavily concentrated in mature lifecycle products, limiting long-term growth potential.
+- New product contribution remains comparatively low, increasing dependency on aging SKUs.
+- Category-level revenue distribution reveals structural concentration risk.
 
+#### Potential Actions
+ - Accelerate new product innovation and promotional support.
+ - Rebalance marketing investment toward high-growth categories.
+ - Implement lifecycle-based pricing strategies to protect mature-product margins.
+ - Monitor category revenue dependency ratios.
 
+![Revenue_Product](https://github.com/mustafaozzkul/E-Commerce_Sales_and_Profitability_Analysis/blob/main/Product.png?raw=true)
+
+## Channel & Campaign Performance
+
+### Insights & Business Implications
+
+#### Key Insights
+ - Significant differences exist in average order value across sales channels.
+ - Affiliate and marketplace channels generate lower AOV compared to direct channels.
+ - Campaign types with higher discount intensity exhibit lower profitability contribution.
+
+#### Potential Actions
+ - Re-evaluate affiliate economics and commission structure.
+ - Shift marketing budget toward high-margin acquisition channels.
+ - Introduce campaign-level profitability thresholds.
+
+![Channel](https://github.com/mustafaozzkul/E-Commerce_Sales_and_Profitability_Analysis/blob/main/Channel.png?raw=true)
+
+## Operations & Profitability
+
+### Insights & Business Implications
+
+#### Key Insights
+ - Net profit declined faster than total revenue, indicating structural margin compression rather than pure sales contraction.
+ - Profit margin decreased primarily due to increased discount intensity rather than operational cost volatility.
+ - Discount-related reductions represent the largest controllable driver of profit erosion within the P&L breakdown.
+ - Return rate increased modestly, further amplifying margin pressure through revenue reversal and cost absorption.
+
+#### Potential Actions
+ - Introduce margin-based discount guardrails to prevent excessive promotional dilution.
+ - Conduct targeted return analysis to identify categories driving margin leakage.
+
+![Operation](https://github.com/mustafaozzkul/E-Commerce_Sales_and_Profitability_Analysis/blob/main/Operation.png?raw=true)
+
+## Strategic Recommendations
+
+Based on cross-dashboard insights, the analysis highlights several strategic opportunities to stabilize revenue and restore profitability:
+ - Rebalance pricing and promotion strategy by introducing margin-based discount controls to prevent excessive profitability erosion.
+ - Recalibrate the discount strategy, as promotional intensity is the primary controllable driver of profit erosion. Introducing margin-based discount thresholds can prevent excessive margin dilution.
+ - Integrate return-adjusted profitability tracking, as increasing return rates combined with high discounts amplify margin pressure.
+ - Reduce dependency on mature products by strengthening growth initiatives around newer or higher-margin categories to diversify the revenue base.
 
